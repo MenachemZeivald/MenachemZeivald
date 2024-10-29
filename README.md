@@ -9,7 +9,7 @@
 - **Languages**: Python, Java, C
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn](#https://www.linkedin.com/in/menachem-zeivald-bb3569149/)
-- **Email**: [Your Email](mailto:menachemzeivald@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:menachemzeivald@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mordechai-ben-shimon/](https://www.linkedin.com/in/menachem-zeivald-bb3569149/))
 
 Thanks for visiting my profile! Let’s connect! 🚀
