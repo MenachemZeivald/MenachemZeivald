@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Menachem!
 
-<!--
-**MenachemZeivald/MenachemZeivald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Full-Stack Developer passionate about building efficient and user-friendly applications!
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Angular
+- **Backend**: Node.js, Express, NestJS
+- **Databases**: MongoDB, SQL
+- **Languages**: Python, Java, C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- **LinkedIn**: [Your LinkedIn](#https://www.linkedin.com/in/menachem-zeivald-bb3569149/)
+- **Email**: [Your Email](mailto:menachemzeivald@gmail.com)
+
+Thanks for visiting my profile! Let’s connect! 🚀
